@@ -49,7 +49,7 @@ Now we support linux only
 
 ```bash
 $ curl http://meshbird.com/install.sh | sh
-````
+```
 
 or if you have Go compiler 
 
